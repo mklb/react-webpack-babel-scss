@@ -1,4 +1,5 @@
-# react webpack babel scss
+# React Webpack Babel Scss Boilerplate / Starter App
+A react app with an development environment (Webpack), using Babel and SCSS.
 
 ## Dependencies:
 
@@ -20,5 +21,5 @@ npm i webpack-dev-server webpack -g
 ## Development
 Run development server: `npm run dev` -> `http://localhost:8080/`
 
-## Production
+## Build ReactJS App for production
 `npm run build` -> /public contains the generated site
