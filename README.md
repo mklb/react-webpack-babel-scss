@@ -11,10 +11,10 @@ npm i webpack-dev-server webpack -g
 ```
 /components - all components (.jsx) files
 /public - generated site
-/scss - the css file
+/scss - all scss files
   _base.scss - some css resets, basic font styling, box-sizing: border-box, 3 classes: .clearfix, .wrapper, .wrapper-large (fullscreen)
   _styles.scss - default required empty file for your styles
-  main.scss - variables and imports, mobile first media querie
+  main.scss - variables and imports, mobile first media queries
 ```
 
 ## Development
